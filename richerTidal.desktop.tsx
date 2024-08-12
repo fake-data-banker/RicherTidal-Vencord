@@ -25,7 +25,7 @@ const appIds = [
 ];
 const logger = new Logger("richerTidal");
 export default definePlugin({
-    name: "richerCider",
+    name: "richerTidal",
     description: "Enhances tidalRPC (More details in info button) by adding the \"Listening to\" type prefix to the user's rich presence when an applicable ID is found.",
     authors: [{
         id: 1203847102342496397,
